@@ -3,7 +3,7 @@ package gr.upatras.junit.first;
 public class MyMain {
 	public static void main(String[]args) {
 		Subtraction m = new Subtraction();
-		String result = m.subtraction( 10 , 5);
+		String result = m.subtraction( 10 , 8);
 		System.out.println( " The Result is:" + result);
 	}
 
